@@ -1,4 +1,3 @@
-import '../styles/index.css'
 import { Header } from './Header'
 
 function App() {
